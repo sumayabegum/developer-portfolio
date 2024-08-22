@@ -1,0 +1,58 @@
+table{
+    border-collapse:collapse ;
+}
+td,th{
+    border: 1px solid blue;
+    padding: 5px;
+    background-color:rosybrown;
+}
+
+
+.here{
+    display: flex;
+    background-color:burlywood ;
+    width: 600px;
+    margin: 50px;
+    padding:20px ;
+}
+img{
+    margin: 40px;
+    
+}
+
+
+
+.About{
+    background-color: bisque;
+    width: 600px;
+    padding: 10px;
+    
+}
+.div1{
+    text-align: center;
+}
+.sumaya{
+    display: flex;
+    gap: 30px;
+}
+    
+
+
+.What{
+    background-color: blueviolet;
+    width: 700px;
+}
+.suma{
+    display: flex;
+    gap: 10px;}
+.name{
+    margin: 0px auto;
+    text-align: center;
+}
+.suma>div{
+background-color: aqua;
+width:400 px;
+}
+.mohima{
+width:50px;
+}
